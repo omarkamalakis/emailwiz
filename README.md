@@ -105,6 +105,8 @@ You're a big boy now if you have your own mail server!
 
 You can tweak Postfix (sending mail
 
+NEW TWEAKS:
+This fork of emailwiz is meant to work specifically on Alpine Linux
 ## Benefited from this?
 
 If this script or documentation has saved you some frustration, you can donate
